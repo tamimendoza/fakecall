@@ -17,6 +17,9 @@ class _ScreenLlamando extends State<ScreenLlamando> {
   @override
   void initState() {
     super.initState();
+    Future.delayed(const Duration(seconds: 5000), () {
+      initPlayer();
+    });
     initPlayer();
   }
 
@@ -80,12 +83,12 @@ class _ScreenLlamando extends State<ScreenLlamando> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    'Tomas',
+                    'Tomas llamando',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 20,
                     ),
-                  )
+                  ),
                 ],
               ),
             ),

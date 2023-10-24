@@ -1,16 +1,15 @@
 # fakecall
 
-A new Flutter project.
+Este es un proyecto donde realizamos un simulador de llamadas.
+
+# Video completo del paso a paso
+
+https://youtu.be/_IirGiK9zzQ
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Pantalla 1
+![Screen 1](screenshots/screen1.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pantalla 2
+![Screen 2](screenshots/screen2.jpeg)
